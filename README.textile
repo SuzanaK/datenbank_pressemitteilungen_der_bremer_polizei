@@ -1,1 +1,1 @@
-This scraper collects the daily press releases of the police in Bremen, Germany. 
+This scraper collected the daily press releases of the police in Bremen, Germany. 
